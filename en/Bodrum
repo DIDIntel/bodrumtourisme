@@ -997,7 +997,7 @@
 
 
     <!-- Extrait Google Analytics ajouté par Site Kit -->
-    <script src="https://www.googletagmanager.com/gtag/js?id=G-BMLKBDVBP1" id="google_gtagjs-js" async></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=G-T7882S5JNN" id="google_gtagjs-js" async></script>
     <script id="google_gtagjs-js-after">
         window.dataLayer = window.dataLayer || [];
 
@@ -1006,7 +1006,7 @@
         }
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "G-BMLKBDVBP1");
+        gtag("config", "G-T7882S5JNN");
     </script>
 
     <!-- Arrêter l&#039;extrait Google Analytics ajouté par Site Kit -->
