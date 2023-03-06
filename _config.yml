@@ -22,10 +22,13 @@ title: Chauffeur privé sur-mesure à Bodrum - Bodrum Tourisme
 email: hello@bodrumtourisme.com
 description: >- # this means to ignore newlines until "baseurl:"
   VTC d'exception basé sur la péninsule de Bodrum. Réservez votre chauffeur privé dès maintenant !
+  Basés sur la péninsule de Bodrum , nous pouvons étendre notre activité sur l’ensemble de la Truquie et au-delà si nécessaire, afin de répondre au mieux à vos besoins.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bodrumtourisme.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bodrumtourisme
+url: "https://bodrumtourisme.com" 
 instagram_username:  bodrumtourisme
+whatsapp_username:  bodrumtourisme
+
+logo: /asset/favicon/apple-touch-icon.png
 
 # Build settings
 theme: minima
